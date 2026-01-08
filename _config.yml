@@ -10,7 +10,7 @@ title:            Jayden Kang
 tagline:          'Jayden Kang'
 description:      'My portfolio containing my work regarding GIS, ecology, and photography. Made by <a href="https://instagram.com/jeidun" target="_blank">@jeidun</a>.'
 url:              https://jeidun.github.io
-baseurl:          https://jeidun.github.io/poole/
+baseurl:          https://jeidun.github.io/
 
 author:
   name:           'Jayden Kang'
@@ -20,14 +20,7 @@ gems:                [jekyll-paginate]
 paginate:            5
 paginate_path:        "/blog/page:num/"
 
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/jeidun/jeidun.github.io.git
-
 # Theme
-
 theme: jekyll-theme-quartz
 plugins:
   - jekyll-remote-theme
