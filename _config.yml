@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            Jayden Kang
 tagline:          'Jayden Kang'
 description:      'My portfolio containing my work regarding GIS, ecology, and photography. Made by <a href="https://instagram.com/jeidun" target="_blank">@jeidun</a>.'
-url:              http://jeidun.github.io
-baseurl:          http://jeidun.github.io/poole/
+url:              https://jeidun.github.io
+baseurl:          https://jeidun.github.io/poole/
 
 author:
   name:           'Jayden Kang'
