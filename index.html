@@ -17,7 +17,7 @@ title: Home
       class="post-date">{{ post.date | date_to_string }}
     </time>
 
-    {{ post.content }}
+    {{ post.content | strip_html | truncatewords: 50 }}
 
   </article>
   {% endfor %}
