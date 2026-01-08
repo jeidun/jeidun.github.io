@@ -24,4 +24,4 @@ paginate_path:       "page:num"
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/jeidun/jeidun.github.io.git
