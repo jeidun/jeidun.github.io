@@ -11,7 +11,7 @@ title:            Jayden Kang
 tagline:          'Jayden Kang'
 description:      'My portfolio containing my work regarding GIS, ecology, and photography. Made by <a href="https://instagram.com/jeidun" target="_blank">@jeidun</a>.'
 url:              http://jeidun.github.io
-baseurl:          /
+baseurl:          http://jeidun.github.io/poole/
 
 author:
   name:           'Jayden Kang'
