@@ -18,8 +18,8 @@ title: Jayden Kang
 
 theme: jekyll-agency
 
-url    : "https://jeidun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+url    : https://jeidun.github.io # the base hostname & protocol for your site, e.g. http://example.com
+base.url: https://jeidun.github.io/blog # the subpath of your site, e.g. /blog
 
 title      : Jayden Kang
 email      : jayden_kang1@icloud.com #this is also the email contact forms will go to
@@ -41,10 +41,9 @@ markdown: kramdown
 # formspree_form_path: "f/a_form_id"
 
 
-github: https://github.com/jeidun
-repo: https://github.com/jeidun/jeidun.github.io
+site.github.repo: https://github.com/jeidun/jeidun.github.io
 
 # Paginate plugin
-gems:                [jekyll-paginate]
+gems:                jekyll-paginate
 paginate:            5
 paginate_path:        "/blog/page:num/"

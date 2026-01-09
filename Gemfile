@@ -17,5 +17,5 @@ gem "jekyll-agency"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
-  # gem "github-pages" # https://github.com/github/pages-gem
 end
+gem "webrick", "~> 1.9"

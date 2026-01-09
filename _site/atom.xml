@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf+8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Home</title>
+ <title>Jayden Kang</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2026-01-09T11:07:33+08:00</updated>
+ <updated>2026-01-09T14:19:32+08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Jekyll on Apple Silicon</title>
+   <link href="http://localhost:4000/2026/01/09/Jekyll.html"/>
+   <updated>2026-01-09T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2026/01/09/Jekyll</id>
+   <content type="html">&lt;h2 id=&quot;common-errors-i-encountered&quot;&gt;Common Errors I Encountered&lt;/h2&gt;
+
+&lt;p&gt;While trying to build this website, there were a few hiccups that I encountered along the way. Some were described by ChatGPT as “common on Apple Silicon”.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Geographic Information Systems</title>
